@@ -17,9 +17,11 @@ Koden är uppdelad i två colabs:
 
 Alla instruktioner om hur programmen ska köras finns i colabfilerna.
 
-Den första hämtar dataset och tränar en modell som läggs i google Drive:  [https://colab.research.google.com/drive/1QMx8Q5Z3ddorHInnY4LGWm3ehzDFWxHz#scrollTo=P4jVFbiyavwu](https://colab.research.google.com/drive/1QMx8Q5Z3ddorHInnY4LGWm3ehzDFWxHz#scrollTo=P4jVFbiyavwu)  Med denna kan man träna upp en modell och ladda ned data till generering av tweets.
+Den första hämtar dataset och tränar en modell som läggs i google Drive:  [https://colab.research.google.com/drive/1QMx8Q5Z3ddorHInnY4LGWm3ehzDFWxHz#scrollTo=P4jVFbiyavwu](https://colab.research.google.com/drive/1QMx8Q5Z3ddorHInnY4LGWm3ehzDFWxHz#scrollTo=P4jVFbiyavwu) 
+Med denna kan man träna upp en modell och ladda ned data till generering av tweets.
 
-Den andra använder den tränade modellen och genererar tweets som läggs ut:  [https://colab.research.google.com/drive/1WXYVxzUSOyWam4ZqHB1aItDe6xL1rlXH#scrollTo=sJlbCdP3B2S6](https://colab.research.google.com/drive/1WXYVxzUSOyWam4ZqHB1aItDe6xL1rlXH#scrollTo=sJlbCdP3B2S6)  Denna går att köra med min färdigtränade modell eller med en egen. För att köra med en egen modell behöver man träna en sådan i den första colabfilen och sedan spara den i sin Google Drive. Viktikt är då att byta ut så att programmet hämtar din modell istället för min. Mer inforamtion om det finns i filen.
+Den andra använder den tränade modellen och genererar tweets som läggs ut:  [https://colab.research.google.com/drive/1WXYVxzUSOyWam4ZqHB1aItDe6xL1rlXH#scrollTo=sJlbCdP3B2S6](https://colab.research.google.com/drive/1WXYVxzUSOyWam4ZqHB1aItDe6xL1rlXH#scrollTo=sJlbCdP3B2S6)  
+Denna går att köra med min färdigtränade modell eller med en egen. För att köra med en egen modell behöver man träna en sådan i den första colabfilen och sedan spara den i sin Google Drive. Viktikt är då att byta ut så att programmet hämtar din modell istället för min. Mer inforamtion om det finns i filen.
 
 ## Heroku
 

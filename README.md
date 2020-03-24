@@ -27,4 +27,7 @@ Denna går att köra med min färdigtränade modell eller med en egen. För att 
 
 Tanken var att köra programmet i Heroku så att det kunde generera tweets utan att något program behöver köras i colab eller på datorn. Eftersom Heroku har en hård minnesgräns går det inte att generera prefix och hitta bilder. Därför körs koden i nuläget enbart i colab. Som test har jag lagt med de filer som behövs för att köra ett enklare program som enbart postar tweets med text och utan prefixes i mappen "Heroku".
 
+Instruktioner för att komma igång med heroku finns i denna video:
+https://www.youtube.com/watch?v=RMQ4f6YXRTM&t=1081s
+
 
